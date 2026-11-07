@@ -89,11 +89,10 @@ The video will cover:
 
 <br/>
 
-[📂 Watch Project Video on Google Drive](YOUR_GOOGLE_DRIVE_LINK_HERE)
+[📂 Watch Project Video on Google Drive](https://drive.google.com/file/d/1BY2k-r6UNTxRiEO0V3WBZnyBD4jHH5j8/view?usp=sharing)
 
 </div>
 
-> Note: The Google Drive link will be updated after recording and uploading the project demonstration.
 
 ---
 
